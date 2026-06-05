@@ -1,0 +1,7 @@
+.alpackages
+.resources
+.snapshots
+.vscode/rad.json
+*.xlf
+*.app
+*.alcache/

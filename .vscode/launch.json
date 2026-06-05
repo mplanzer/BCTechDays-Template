@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Cloud",
+            "type": "al",
+            "request": "launch",
+            "authentication": "AAD",
+            "tenant": "f655c9c1-4e6b-4819-897d-60587bce9a7f",
+            "environmentType": "Sandbox",
+            "environmentName": "TechDays",
+            "breakOnError": "ExcludeTry",
+            "breakOnRecordWrite": "None",
+            "launchBrowser": true,
+            "schemaUpdateMode": "ForceSync"
+        }
+    ],
+    "compounds": []
+}
